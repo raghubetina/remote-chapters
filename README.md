@@ -134,8 +134,10 @@ I don't have any research to back this up, but I believe that my message comes a
 
 Consider the following:
 
- - Getting [a lectern, podium, or stand for your laptop](https://smile.amazon.com/Pro-Laptop-Projector-Stand-Adjustable/dp/B003GEKXRM/){:target="_blank"}. If you're whiteboarding with a tablet, then getting two or [something wider](https://smile.amazon.com/Lifetime-4428-Adjustable-Folding-Utility/dp/B003YJPC2A){:target="_blank"} might help.
+ - Getting a standing desk or [counter-height folding table](https://smile.amazon.com/Lifetime-4428-Adjustable-Folding-Utility/dp/B003YJPC2A){:target="_blank"}. I prefer this to [a lectern, podium, or stand](https://smile.amazon.com/Pro-Laptop-Projector-Stand-Adjustable/dp/B003GEKXRM/){:target="_blank"} so that I have more room to spread out — my laptop, notes, tablet for whiteboarding, external monitor, etc.
  - Getting[^webcams_selling_out] [an external USB webcam](https://thewirecutter.com/reviews/the-best-webcams/){:target="_blank"}, rather than using the built-in webcam on your laptop and mounting[^camera_mount] the camera on a [tripod](https://smile.amazon.com/Victiv-Camera-Aluminum-Monopod-72-inch/dp/B07JCG1BKY){:target="_blank"} or [stand](https://smile.amazon.com/Neewer-Photography-Relfectors-Softboxes-Backgrounds/dp/B00K69A0QY){:target="_blank"} a few feet away and _at eye level_.
+
+    [EpocCam](https://apps.apple.com/us/app/epoccam-webcamera-for-computer/id435355256){:target="_blank"}, an $8 iPhone app, works well as a webcam replacement. Paired with [a gooseneck desk mount](https://smile.amazon.com/Gooseneck-Bed-Phone-Holder-Mount/dp/B07S9JXQP2){:target="_blank"}, it can even double as a document camera, as described below.
  - If you're doing stuff on your screen (like demoing in Excel or writing code), remember to glance up from time to time and make "eye contact"[^confidence_monitor] with the camera. Talk to and gesticulate at it. Give the video some _life_.
 
 [^webcams_selling_out]: Unfortunately, at the time of this writing, webcams look to be selling out at many retailers.
@@ -184,11 +186,11 @@ Here's [a good rundown of options](https://thewirecutter.com/reviews/the-best-us
 
 Your phone's wired earbuds, or any wired headphones, will work just fine.
 
-At the cost of a tiny audio delay, Bluetooth headphones (like AirPods, but note my warning below about using them as your mic also) will work; and that way you're not tethered to your laptop by any wires, which is nice (especially if you're standing up, as I encourage below).
+At the cost of a tiny audio delay, Bluetooth headphones (like AirPods, but note my warning below about using them as your mic also) will work; and that way you're not tethered to your laptop by any wires, which is nice (especially if you're standing up, as I encourage above).
 
 #### AirPods warning
 
-I don't know why this is, but in all my testing: AirPods, when connected to laptops, are terrible microphones. It's fine to use them as headphones, but <u>I recommend not using AirPods as your input device</u>; or at least try it out with a friend and see what they say you sound like (I bet they'll say "tinny"), and whether there's a lag (I bet they'll say "yes").
+I don't know why this is, but in all my testing: AirPods, when connected to laptops, are terrible microphones. It's fine to use them as headphones, but <u>I recommend not using AirPods as your microphone</u>; or at least try it out with a friend and see what they say you sound like (I bet they'll say "tinny"), and whether there's a lag (I bet they'll say "yes").
 
 #### Selecting input and output devices
 
@@ -204,19 +206,19 @@ Make sure your TAs are comfortable alerting you to any A/V issues that arise, no
 
 Many of us make heavy use of whiteboards while teaching. How are we going to replicate that remotely?
 
-#### Finger or stylus
-
-I find it hard to write with a mouse or my finger, so I plan to use an iPad and Apple Pencil. I know others who use [standalone drawing tablets](https://thewirecutter.com/reviews/best-drawing-tablets-for-beginners/){:target="_blank"}, but I haven't tried those.
-
 #### Whiteboarding with Zoom
 
-The simplest way to get started is probably [Zoom's built-in whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard){:target="_blank"}. You don't need an iPad or a stylus, and your audience can even whiteboard with you (if you let them). This is a solid option.
+The simplest way to get started is probably [Zoom's built-in whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard){:target="_blank"}. You don't have to use an iPad or a stylus; you can get away with just your mouse (although that seems like it would be hard to me). And your audience can even whiteboard with you (if you let them). This is a solid option.
 
 [You can also annotate on top of your slides](https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard){:target="_blank"}. Consider including slides in your deck as placeholders for moments when you intend to whiteboard, perhaps with prompts or some portions of the content (formulae?) already filled in. This can save a lot of time, and let you just emphasize the important parts; as opposed to writing it all up from scratch.
 
-#### Whiteboarding with a separate app
+#### Drawing tablet
 
-For some types of content (diagrams, graphs) I plan to use a separate app for whiteboarding, rather than Zoom's built-in whiteboard. My app of choice is [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812){:target="_blank"}. Here's a quick demo of some ways I use it:
+I know people who use [standalone drawing tablets](https://thewirecutter.com/reviews/best-drawing-tablets-for-beginners/){:target="_blank"} and like them. I prefer to use an iPad, so that I can see what I am writing where I am writing it.
+
+#### Whiteboarding with an iPad
+
+When whiteboarding with an iPad, I mostly plan to use separate apps for whiteboarding, rather than Zoom's built-in whiteboard. For example, for drawings, I like [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812){:target="_blank"}. Here's a quick demo of some ways I use it:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/400006048' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
@@ -246,6 +248,18 @@ Alternatively, you can use QuickTime Player. Connect your iPad with a USB cable,
 Now, if you're e.g. sharing your desktop over Zoom, QuickTime (showing whatever is going on on your iPad) is just another window in it, which [you can manage](#use-a-window-manager); maximize it, or put it side-by-side with other content (e.g. a Jupyter notebook). Neat!
 
 You don't have to click "Record", but I suppose you could if you want to. It will create an mp4 file of your iPad screen, but you won't [have your face in the video](#include-your-face). It would probably be easier to just make a recording of a Zoom session.
+
+##### Notifications
+
+If you're sharing your iPad's screen, beware of notifications popping up during whiteboarding. You might want to turn off notifications from e.g. your messaging apps.
+
+#### An actual whiteboard
+
+After trying all the newfangled methods above — iPad apps, Zoom annotation, tablets, etc — I've found that the whiteboarding method I reach for most often in the new digital world is... a physical whiteboard.
+
+I have a [document camera](https://smile.amazon.com/IPEVO-Definition-Document-Camera-5-880-4-01-00/dp/B079DLTG9F) pointed at a whiteboard on my standing desk. I can easily switch to the document camera as my video source in Zoom (instead of my face), or I can use the app it came with and share my screen, or I can use it with QuickTime [as described above](#sharing-ipad-with-quicktime).
+
+[EpocCam](https://apps.apple.com/us/app/epoccam-webcamera-for-computer/id435355256){:target="_blank"}, an $8 iPhone app, paired with [a gooseneck desk mount](https://smile.amazon.com/Gooseneck-Bed-Phone-Holder-Mount/dp/B07S9JXQP2){:target="_blank"} makes for a solid document camera replacement.
 
 ### Ensure a stable internet connection
 
