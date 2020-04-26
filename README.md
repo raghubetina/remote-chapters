@@ -637,12 +637,13 @@ Here are a few things that I'm planning to experiment with:
 
 I've been using much of class time for labs/exercises, with slides and demos to motivate them. [Breakout Rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms){:target="_blank"} have been essential.
 
- -  It's very hard for students to speak up and be the sole center of attention in front of 75, 30, or even 10 people. I have been trying to break out into small groups as often as possible, even for individual work; it just makes "leaning over" for help much easier (as opposed to asking for help in the big room, even via chat).
+ - It's hard to be center of attention in front of 75, 30, or even 10 people. Having your face in front of everyone else is different than raising your hand in class, in this respect.
+
+    I have been trying to break out into small groups as often as possible, even for individual work. It makes asking questions much easier, either "leaning over" and asking their peers, or requesting an instructor to enter their Breakout Room for help.
  - I've been aiming for at least 3 students per room, and no more than 5. You can adjust the number of rooms and Zoom will estimate the number of participants per room. Decrease it until it just drops under 4 to 3-4.
  - The numbers will be thrown off a little bit by TAs and students having two devices in the room (some students use phones for audio, or have an iPad annotation, whatever).
 
     Be prepared to shuffle some people around to balance room sizes right after the rooms are created. Don't wait too long and move them after they've gotten comfortable; move them immediately or not at all.
-
  - If a student has joined the meeting with extra devices, instruct them to not accept Breakout Room invitations with their extra devices. Then, manually move their extra devices to whichever room the student was assigned to.
  - TAs should remain in the main room and not accept their Breakout Room invitation.
  - Encourage students to use the "Ask a question" button from within the Breakout Rooms to call for help. Send TAs into the rooms as needed.
