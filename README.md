@@ -422,7 +422,7 @@ Turn on [Do Not Disturb](https://www.howtogeek.com/233215/how-to-configure-do-no
 
 ---
 
-**Note: I'm sad to report that zooming in and out on areas of our screen does not show up for our audience while sharing our screen over Zoom (ironically enough).** I am leaving this section here for reference; it's still a great trick for when you're pre-recording videos, or when you're back in your physical classroom and connected to a projector.
+**Note: I'm sad to report that zooming in and out on areas of our screen does not show up for our audience while sharing our screen over Zoom (ironically enough).** I am leaving this section here for reference; it's still a great trick for when you're pre-recording videos using other software, or when you're back in your physical classroom and connected to a projector.
 
 ---
 
