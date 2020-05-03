@@ -2,11 +2,11 @@
 
 Like everyone else, I[^whoami] am trying to figure out how to teach remotely next quarter. Below are the notes that I'm using to gather my thoughts and to coordinate with my co-instructors.
 
-[^whoami]: Hi! [I'm Raghu](https://twitter.com/raghubetina){:target="_blank"}. I teach [at Chicago Booth](https://www.chicagobooth.edu/faculty/directory/b/raghu-betina){:target="_blank"}.
+[^whoami]: Hi! [I'm Raghu](https://twitter.com/raghubetina){:target="_blank"}.
 
 A few people have asked me to share them, so here they are. Hopefully, you will find one or two useful tips inside. I always love observing another teacher's tricks; if you have a similar document, _please_ [send it over](mailto:raghu.betina@chicagobooth.edu)!
 
-These notes will evolve as I hear what other teachers are coming up with and attend the workshops that the school is organizing over the coming weeks. I plan to update this document frequently until at least March 31st, so please check back.
+These notes will evolve as I hear what other teachers are coming up with and attend the workshops that the school is organizing over the coming weeks. I plan to update this document frequently until the end of the quarter, so please check back.
 
  - Click on the <i class="fas fa-bars fa-fw"></i> icon in the top-left corner of this page to see a table of contents and overview.
  - I teach a programming class; much of the below may not apply to other settings.
@@ -108,7 +108,7 @@ Okay, let's get down to brass tacks. First and foremost, you need to set up your
 
 I recommend including your face in any recording you make (a picture-in-picture in the corner), or turn on your video while conducting class over Zoom.
 
-A disembodied voice over slides is incredibly difficult to _not_ zone out to. A human face in the picture makes all the difference.
+A disembodied voice reading slides is incredibly difficult to _not_ zone out to, at least for me. A human face in the picture makes all the difference.
 
 #### Virtual background
 
@@ -134,8 +134,10 @@ I don't have any research to back this up, but I believe that my message comes a
 
 Consider the following:
 
- - Getting [a lectern, podium, or stand for your laptop](https://smile.amazon.com/Pro-Laptop-Projector-Stand-Adjustable/dp/B003GEKXRM/){:target="_blank"}. If you're whiteboarding with a tablet, then getting two or [something wider](https://smile.amazon.com/Lifetime-4428-Adjustable-Folding-Utility/dp/B003YJPC2A){:target="_blank"} might help.
+ - Getting a standing desk or [counter-height folding table](https://smile.amazon.com/Lifetime-4428-Adjustable-Folding-Utility/dp/B003YJPC2A){:target="_blank"}. I prefer this to [a lectern, podium, or stand](https://smile.amazon.com/Pro-Laptop-Projector-Stand-Adjustable/dp/B003GEKXRM/){:target="_blank"} so that I have more room to spread out — my laptop, notes, tablet for whiteboarding, external monitor, etc.
  - Getting[^webcams_selling_out] [an external USB webcam](https://thewirecutter.com/reviews/the-best-webcams/){:target="_blank"}, rather than using the built-in webcam on your laptop and mounting[^camera_mount] the camera on a [tripod](https://smile.amazon.com/Victiv-Camera-Aluminum-Monopod-72-inch/dp/B07JCG1BKY){:target="_blank"} or [stand](https://smile.amazon.com/Neewer-Photography-Relfectors-Softboxes-Backgrounds/dp/B00K69A0QY){:target="_blank"} a few feet away and _at eye level_.
+
+    [EpocCam](https://apps.apple.com/us/app/epoccam-webcamera-for-computer/id435355256){:target="_blank"}, an $8 iPhone app, works well as a webcam replacement. Paired with [a gooseneck desk mount](https://smile.amazon.com/Slopehill-Gooseneck-Samsung-Bedroom-Bathroom/dp/B07VBDJM5K){:target="_blank"}, it can even double as a document camera, as described below.
  - If you're doing stuff on your screen (like demoing in Excel or writing code), remember to glance up from time to time and make "eye contact"[^confidence_monitor] with the camera. Talk to and gesticulate at it. Give the video some _life_.
 
 [^webcams_selling_out]: Unfortunately, at the time of this writing, webcams look to be selling out at many retailers.
@@ -184,11 +186,11 @@ Here's [a good rundown of options](https://thewirecutter.com/reviews/the-best-us
 
 Your phone's wired earbuds, or any wired headphones, will work just fine.
 
-At the cost of a tiny audio delay, Bluetooth headphones (like AirPods, but note my warning below about using them as your mic also) will work; and that way you're not tethered to your laptop by any wires, which is nice (especially if you're standing up, as I encourage below).
+At the cost of a tiny audio delay, Bluetooth headphones (like AirPods, but note my warning below about using them as your mic also) will work; and that way you're not tethered to your laptop by any wires, which is nice (especially if you're standing up, as I encourage above).
 
 #### AirPods warning
 
-I don't know why this is, but in all my testing: AirPods, when connected to laptops, are terrible microphones. It's fine to use them as headphones, but <u>I recommend not using AirPods as your input device</u>; or at least try it out with a friend and see what they say you sound like (I bet they'll say "tinny"), and whether there's a lag (I bet they'll say "yes").
+I don't know why this is, but in all my testing: AirPods, when connected to laptops, are terrible microphones. It's fine to use them as headphones, but <u>I recommend not using AirPods as your microphone</u>; or at least try it out with a friend and see what they say you sound like (I bet they'll say "tinny"), and whether there's a lag (I bet they'll say "yes").
 
 #### Selecting input and output devices
 
@@ -204,19 +206,19 @@ Make sure your TAs are comfortable alerting you to any A/V issues that arise, no
 
 Many of us make heavy use of whiteboards while teaching. How are we going to replicate that remotely?
 
-#### Finger or stylus
-
-I find it hard to write with a mouse or my finger, so I plan to use an iPad and Apple Pencil. I know others who use [standalone drawing tablets](https://thewirecutter.com/reviews/best-drawing-tablets-for-beginners/){:target="_blank"}, but I haven't tried those.
-
 #### Whiteboarding with Zoom
 
-The simplest way to get started is probably [Zoom's built-in whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard){:target="_blank"}. You don't need an iPad or a stylus, and your audience can even whiteboard with you (if you let them). This is a solid option.
+The simplest way to get started is probably [Zoom's built-in whiteboard](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard){:target="_blank"}. You don't have to use an iPad or a stylus; you can get away with just your mouse (although that seems like it would be hard to me). And your audience can even whiteboard with you (if you let them). This is a solid option.
 
 [You can also annotate on top of your slides](https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard){:target="_blank"}. Consider including slides in your deck as placeholders for moments when you intend to whiteboard, perhaps with prompts or some portions of the content (formulae?) already filled in. This can save a lot of time, and let you just emphasize the important parts; as opposed to writing it all up from scratch.
 
-#### Whiteboarding with a separate app
+#### Drawing tablet
 
-For some types of content (diagrams, graphs) I plan to use a separate app for whiteboarding, rather than Zoom's built-in whiteboard. My app of choice is [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812){:target="_blank"}. Here's a quick demo of some ways I use it:
+I know people who use [standalone drawing tablets](https://thewirecutter.com/reviews/best-drawing-tablets-for-beginners/){:target="_blank"} and like them. I prefer to use an iPad, so that I can see what I am writing where I am writing it.
+
+#### Whiteboarding with an iPad
+
+When whiteboarding with an iPad, I mostly plan to use separate apps for whiteboarding, rather than Zoom's built-in whiteboard. For example, for drawings, I like [Paper by WeTransfer](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812){:target="_blank"}. Here's a quick demo of some ways I use it:
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/400006048' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
@@ -246,6 +248,18 @@ Alternatively, you can use QuickTime Player. Connect your iPad with a USB cable,
 Now, if you're e.g. sharing your desktop over Zoom, QuickTime (showing whatever is going on on your iPad) is just another window in it, which [you can manage](#use-a-window-manager); maximize it, or put it side-by-side with other content (e.g. a Jupyter notebook). Neat!
 
 You don't have to click "Record", but I suppose you could if you want to. It will create an mp4 file of your iPad screen, but you won't [have your face in the video](#include-your-face). It would probably be easier to just make a recording of a Zoom session.
+
+##### Notifications
+
+If you're sharing your iPad's screen, beware of notifications popping up during whiteboarding. You might want to turn off notifications from e.g. your messaging apps.
+
+#### Document cameras
+
+After trying all the newfangled methods above — iPad apps, Zoom annotation, tablets, etc — I've found that the whiteboarding method I reach for most often in the new digital world is... an actual whiteboard.
+
+I have a [document camera](https://smile.amazon.com/IPEVO-Definition-Document-Camera-5-880-4-01-00/dp/B079DLTG9F){:target="_blank"} pointed at a whiteboard on my standing desk. I can easily switch to the document camera as my video source in Zoom (instead of my face), or I can use [the app](https://www.ipevo.com/software/visualizer){:target="_blank"} it comes with and share my screen, or I can use it with QuickTime [as described above](#sharing-ipad-with-quicktime).
+
+[EpocCam](https://apps.apple.com/us/app/epoccam-webcamera-for-computer/id435355256){:target="_blank"}, an $8 iPhone app, paired with [a gooseneck desk mount](https://smile.amazon.com/Slopehill-Gooseneck-Samsung-Bedroom-Bathroom/dp/B07VBDJM5K){:target="_blank"} makes for a solid document camera replacement.
 
 ### Ensure a stable internet connection
 
@@ -408,7 +422,7 @@ Turn on [Do Not Disturb](https://www.howtogeek.com/233215/how-to-configure-do-no
 
 ---
 
-**Note: I'm sad to report that zooming in and out on areas of our screen does not show up for our audience while sharing our screen over Zoom (ironically enough).** I am leaving this section here for reference; it's still a great trick if you're recording with some other software, or when you're back in your physical classroom and connected to a projector.
+**Note: I'm sad to report that zooming in and out on areas of our screen does not show up for our audience while sharing our screen over Zoom (ironically enough).** I am leaving this section here for reference; it's still a great trick for when you're pre-recording videos using other software, or when you're back in your physical classroom and connected to a projector.
 
 ---
 
@@ -432,7 +446,7 @@ Voilà! It's now very easy to call attention to some part of your screen, while 
 
 I use this trick a hundred times a day; it's probably the most useful thing you'll get out of these notes if you don't already do it.
 
-**As noted above, this trick doesn't work while screen sharing over Zoom 😔** 
+**As noted above, zooming in and out like this doesn't appear for your audience while screen sharing over Zoom 😔** 
 
 ### Become a keyboard ninja
 
@@ -621,13 +635,26 @@ Here are a few things that I'm planning to experiment with:
 
 ### Breakout rooms
 
-[Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms){:target="_blank"}. Lots of breakout rooms.
+I've been using much of class time for labs/exercises, with slides and demos to motivate them. [Breakout Rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms){:target="_blank"} have been essential.
 
-I plan to use much of class time for labs/exercises, perhaps with brief demos to motivate them, and split the students into groups of 3-4 using Breakout Rooms to work on them together.
+ - It's hard to be center of attention in front of 75, 30, or even 10 people. Having your face in front of everyone else is different than raising your hand in class, in this respect.
 
-Instructors will either be floating from breakout room to breakout room to check in, or they will have their own dedicated Zoom rooms that students will know that they can pop in to for help.
+    I have been trying to break out into small groups as often as possible, even for individual work. It makes asking questions much easier, either "leaning over" and asking their peers, or requesting an instructor to enter their Breakout Room for help.
+ - I've been aiming for at least 3 students per room, and no more than 5. You can adjust the number of rooms and Zoom will estimate the number of participants per room. Decrease it until it just drops under 4 to 3-4.
+ - The numbers will be thrown off a little bit by TAs and students having two devices in the room (some students use phones for audio, or have an iPad annotation, whatever).
 
-I'm actually looking forward to the true randomness of Zoom Breakout Rooms, as opposed to students working with the same 2-3 people that happened to be nearby them on the first day of class and that they continued to sit next to for the remainder of the quarter.
+    Be prepared to shuffle some people around to balance room sizes right after the rooms are created. Don't wait too long and move them after they've gotten comfortable; move them immediately or not at all.
+ - If a student has joined the meeting with extra devices, instruct them to not accept Breakout Room invitations with their extra devices. Then, manually move their extra devices to whichever room the student was assigned to.
+ - TAs should remain in the main room and not accept their Breakout Room invitation.
+ - Encourage students to use the "Ask a question" button from within the Breakout Rooms to call for help. Send TAs into the rooms as needed.
+ - Even if students aren't asking for help, you and TAs should pop in and say hello from time to time. Usually questions will materialize once you are in there. This will also give you a sense of whether you should extend the duration of the Breakout Rooms longer than you initially planned, or whether you should let them expire.
+ - Either way, Broadcast messages to the rooms to let the students know whether you are extending the rooms or not, so they aren't left to wonder.
+ - Instruct students to let rooms expire naturally, and not to click "Return to main room" on their own; it's awkward when students return early, because you can't start again until everyone has returned.
+ - For group exercises, it can lead to good discussions to send all the members of one room into another room for a few minutes, so that two groups can compare their solutions. Knowing that this is coming can get them to be a bit more on the ball.
+ - I really like the true randomness of Zoom Breakout Rooms, as opposed to students working with the same 2-3 people that happened to be nearby them on the first day of class and that they continued to sit next to for the remainder of the quarter.
+
+    However, I've been sticking with the same Breakout Rooms for each day, so that they have a bit of time to gel. I don't randomly assign a new group for each activity within a day.
+ - As we get further into the quarter, I _might_ pre-assign groups if I have competitive group exercises and I want to balance out teams; but I doubt it. So far I like the random groups.
 
 ### Q&A / Audience interactivity
 
@@ -653,19 +680,17 @@ In `Zoom > Settings > Nonverbal feedback` you can enable Yes/No/Speed up/Slow do
 
 #### Poll Everywhere
 
-[Poll Everywhere](https://www.polleverywhere.com/){:target="_blank"} is an app that allows you to quickly create a variety of different poll types:
+[Poll Everywhere](https://www.polleverywhere.com/){:target="_blank"} is an app that allows you to create a variety of different poll types:
 
 ![](/assets/poll-ev-create.png)
 
-You then get a URL that you can throw into chat, or Canvas, or wherever. The way I most commonly use it is to create the Q&A type poll and prompt the students to type in their own questions. _**Importantly, students can upvote each others questions:**_ 
+For example, there is a Q&A type where students can type in their own questions and, importantly, _upvote each others' questions:_ 
 
 ![](/assets/poll-ev-responses.png)
 
-That way I know which questions to answer first.
+That way I know which questions to answer first. Poll Everywhere can also be used to create other neat kinds of polls — word clouds, 2x2 matrices — that can lead to interesting discussions.
 
-I only plan to use this if the other, simpler methods above (Push To Talk, Raise Hand) become overwhelmed; or if e.g. I don't have TAs that day to read me questions from chat.
-
-Poll Everywhere can also be used to create other neat kinds of polls — word clouds, 2x2 matrices — that can lead to interesting discussions.
+_**I have been embedding these polls into my slides to good effect.**_ They are good at engaging students, helping me pace myself, and they can work for participation points if you need to keep track of that.
 
 Your institution may already have an integration with Poll Everywhere (UChicago does, but you have to request it). Otherwise, it's free for educators for 90 days due to COVID-19[^pollev_discount].
 
@@ -681,7 +706,6 @@ Your institution may already have an integration with Poll Everywhere (UChicago 
 
  - If you'd like to see anything added or expanded upon, please [let me know](raghu.betina@chicagobooth.edu).
  - More Zoom settings
-    - [Auto-save chats](https://support.zoom.us/hc/en-us/articles/115004792763-Saving-In-Meeting-Chat#h_f352de7d-303d-4f5b-b791-928aebb8d41e){:target="_blank"}
     - [Keyboard shortcuts](https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-Shortcuts-for-Zoom){:target="_blank"} 
         — Mute everyone else — <kbd>⌘</kbd>`+`<kbd>control</kbd>`+`<kbd>M</kbd>
         - Mute/unmute self - <kbd>⌘</kbd>`+`<kbd>shift</kbd>`+`<kbd>A</kbd>
