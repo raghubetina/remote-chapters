@@ -99,4 +99,4 @@ Keep an eye on chat. If any questions or comments are in-scope to the current to
 - Take screenshots at key times (e.g. whiteboard drawings) for later posting
 - Paste reference links into chat when appropriate
 
-_Please send any additional suggestions [our way](https://twitter.com/raghubetina){:target="_blank"}. Thank you!_
+_Please send any additional suggestions [our way](https://gist.github.com/jelaniwoods/23d94ecf72d78623362c2987322e9bd0/){:target="_blank"}. Thank you!_
