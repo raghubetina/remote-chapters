@@ -1,5 +1,7 @@
 # TA Zoom Guide
 
+_by Jelani Woods_
+
 ## How to create the recurring Zoom Meeting in Canvas
 
 From the course page on Canvas, select the Zoom tab on the left sidebar to open the Zoom dashboard.
