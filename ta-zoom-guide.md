@@ -74,16 +74,20 @@ _Note: You can’t record breakout room sessions._
 ## Management
 
 ### Presentation issues
+
 Alert the instructor:
+
 - if they have accidentally muted themselves
 - if their mic is too quiet or too loud
 - if they have background noise leaking in that they might not be aware
 - if they haven’t shared screen but seem to think they have and are referring to it
 
 ### Reading chat
+
 Keep an eye on chat. If any questions or comments are in-scope to the current topic and would benefit the discussion, then escalate it to the instructors attention at an appropriate moment if the instructor doesn’t notice them. Otherwise answer the question yourself in the chat.
 
 ### Non-verbal feedback management
+
 - TA’s are responsible for being on the lookout for A/V or any other presentation issues and alert the instructor to them
 - Alert the instructor to raised hands if they don’t notice them
 - Lower a raised hand if the student doesn’t do it themselves
@@ -91,5 +95,8 @@ Keep an eye on chat. If any questions or comments are in-scope to the current to
 - Mute people if they don’t mute themselves
 
 ### Extra 
+
 - Take screenshots at key times (e.g. whiteboard drawings) for later posting
 - Paste reference links into chat when appropriate
+
+_Please send any additional suggestions [our way](https://twitter.com/raghubetina){:target="_blank"}. Thank you!_
