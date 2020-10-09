@@ -94,7 +94,7 @@ I think at this point it's important to remind ourselves that <u>it's okay not t
 
 We're all learning how to navigate these strange times together, and I plan to make my first slide something like this:
 
-![](/assets/social-distance.gif)
+![](/assets/teaching-remote/social-distance.gif)
 
 > _Please excuse us while we learn to social distance._
 
@@ -116,13 +116,13 @@ One of the biggest reasons people hesitate to include their face is having to ma
 
 Fortunately Zoom includes a handy Virtual Background feature that can help with this. Click the little <i class="fas fa-chevron-up fa-fw"></i> icon to the right of the <i class="fas fa-video fa-fw"></i> and then select "Choose Virtual Background...":
 
-![](/assets/choose-virtual-background.png)
+![](/assets/teaching-remote/choose-virtual-background.png)
 
 Go ahead, give it a try right now! Zoom includes a few default options for backgrounds, but you can also add your own — have fun with it!
 
-![](/assets/add-virtual-background.png)
+![](/assets/teaching-remote/add-virtual-background.png)
 
-I prefer a plain white background, which you can see in [my whiteboarding demo](#whiteboarding-with-a-separate-app). Here's [a plain white image](https://raw.githubusercontent.com/raghubetina/remote-chapters/master/assets/white-background.png){:target="_blank"} you can use if you like.
+I prefer a plain white background, which you can see in [my whiteboarding demo](#whiteboarding-with-a-separate-app). Here's [a plain white image](https://raw.githubusercontent.com/raghubetina/remote-chapters/master/assets/teaching-remote/white-background.png){:target="_blank"} you can use if you like.
 
 Zoom does a surprisingly great job of removing your background environment from view, but the less uniform your background is, the harder it is on Zoom.
 
@@ -194,7 +194,7 @@ I don't know why this is, but in all my testing: AirPods, when connected to lapt
 
 In Zoom, the little <i class="fas fa-chevron-up fa-fw"></i> icon to the right of the <i class="fas fa-microphone fa-fw"></i> icon in the bottom-left corner is where you pick exactly which device you want to use for input and output:
 
-![](/assets/zoom-input-output.png)
+![](/assets/teaching-remote/zoom-input-output.png)
 
 ### Empower your TAs to speak up
 
@@ -241,7 +241,7 @@ You can use this method both while conducting class, and for pre-recording conte
 
 Alternatively, you can use QuickTime Player. Connect your iPad with a USB cable, go to `File > New Movie Recording`, click the small <i class="fas fa-chevron-down fa-fw"></i> icon next to the Record button, and select your iPad as the source. 
 
-![](/assets/ipad-quicktime.png)
+![](/assets/teaching-remote/ipad-quicktime.png)
 
 Now, if you're e.g. sharing your desktop over Zoom, QuickTime (showing whatever is going on on your iPad) is just another window in it, which [you can manage](#use-a-window-manager); maximize it, or put it side-by-side with other content (e.g. a Jupyter notebook). Neat!
 
@@ -293,7 +293,7 @@ Create a secondary account on your computer to use whenever you are presenting y
 
 [^projector]: I use my secondary account when teaching in a regular classroom, too, and just connected to a projector.
 
-![](/assets/instructor.png)
+![](/assets/teaching-remote/instructor.png)
 
 This is not the included, out-of-the-box Guest User with limited privileges — it's a full-fledged account[^admin].
 
@@ -327,7 +327,7 @@ Before you start teaching every day, [clear your browser history](https://suppor
 
 When you clear your history, to make your life slightly easier, you can keep your cookies:
 
-![](/assets/cookies.png)
+![](/assets/teaching-remote/cookies.png)
 
 This will make it so that you don't have to sign back in to all of your websites (although that should be easy since you should be [using a password manager](#use-a-password-manager)).
 
@@ -345,7 +345,7 @@ We have such a tiny window, our laptop screen, through which we must communicate
 
 The Dock on Mac takes up way too much space. In your `System Preferences`, make it go away when your mouse is not hovering at the bottom of the screen:
 
-![](/assets/dock.png)
+![](/assets/teaching-remote/dock.png)
 
 #### Use a window manager
 
@@ -356,7 +356,7 @@ Wonderful — now that the Dock is out of the way, you should make whatever app 
  - Windows [has nice window management features built-in](https://www.howtogeek.com/181681/4-hidden-window-management-tricks-on-the-windows-desktop/){:target="_blank"}.
  - Macs do not, for some reason. But there are many third-party apps that solve the problem. I've heard [Veeer](https://beautifulpixels.com/mac/veeer-window-manager-mac/){:target="_blank"} is a good free option. I use [Divvy](https://mizage.com/divvy/){:target="_blank"}.
 
-![](/assets/divvy.png)
+![](/assets/teaching-remote/divvy.png)
 
 I set global keyboard shortcuts to snap a window to fill my entire screen, the left half, or the right half. The keybindings that I chose were:
 
@@ -416,11 +416,11 @@ Even with a huge font size, it can still be very hard for students to read what'
 
 To solve both of these problems, you can zoom in on an area of your screen. In `System Preferences > Accessibility > Zoom`, check the "Use scroll gesture with modifier keys to zoom:" box:
 
-![](/assets/scroll-to-zoom.png)
+![](/assets/teaching-remote/scroll-to-zoom.png)
 
 Now, hold down <kbd>Ctrl</kbd> and scroll up and down:
 
-![](/assets/zooming.gif)
+![](/assets/teaching-remote/zooming.gif)
 
 You will zoom in and out[^zoom_out_fast] on your screen, centered wherever your mouse cursor is located.
 
@@ -454,7 +454,7 @@ The answer is, again: _don't use your mouse_. You should use Spotlight (Mac) or 
 
 This will bring up Spotlight, which is a global search bar for everything on your computer. Start typing the first few letters of the app you want to launch:
 
-![](/assets/spotlight.png)
+![](/assets/teaching-remote/spotlight.png)
 
 Hit <kbd>return</kbd> and away we go! No more hunting through Finder or Windows Explorer.
 
@@ -466,7 +466,7 @@ For one, you could [use Spotlight](#use-spotlight-to-launch-apps) again, which w
 
 But even better — you can use the App Switcher:
 
-![](/assets/app-switcher.gif)
+![](/assets/teaching-remote/app-switcher.gif)
 
 If want to toggle between open apps with the App Switcher, use the following keyboard shortcuts:
 
@@ -505,7 +505,7 @@ Take all of the skills you're learning and practicing to get ready to teach clas
 
 If you go down this road, save the recording to your own computer rather than to the cloud. [Automatic](https://support.zoom.us/hc/en-us/articles/202921119-Automatic-Recording){:target="_blank"} recordings [to the cloud](https://support.zoom.us/hc/en-us/articles/203741855-Cloud-recording){:target="_blank"} are a good choice for real-time class videoconferences; but when you're recording a video meant for asynchronous consumption, that you want to edit and add in-video questions to, <u>save the recording to your own computer</u>. Also, in your settings, select "Optimize for 3rd party video editor":
 
-![](/assets/zoom-optimize-video.png)
+![](/assets/teaching-remote/zoom-optimize-video.png)
 
 Then, [upload the mp4 file to Panopto](https://uchicago.service-now.com/it?id=kb_article&kb=KB06000808){:target="_blank"} (scroll down to the section entitled "Upload an Existing Video to Panopto"). Yes, even though we're recording with Zoom, we're still going to use Panopto for hosting, editing, adding in-video questions, and embedding in Canvas.
 
@@ -547,7 +547,7 @@ _Add markers **while you're recording** whenever you cough, mess up, or want a d
 
 When I use Screenflow to record, I have a keybinding that lets me instantly add a little visible flag that appears in the timeline of the recording:
 
-![](/assets/marker.png)
+![](/assets/teaching-remote/marker.png)
 
 This makes it a breeze to cut out all my sneezes and mistakes later. Or if I think of a slightly better turn of phrase, I can drop a marker and do a quick re-do.
 
@@ -559,7 +559,7 @@ Unfortunately, when recording a Zoom session[^alternate_add_markers], there's no
 
 _**Instead, I plan to type into the chat whenever I make a mistake or cough.**_ The chat entries will be automatically timestamped, and there is a setting that you can turn on to have the video also automatically be timestamped:
 
-![](/assets/add-timestamp-to-recording.png)
+![](/assets/teaching-remote/add-timestamp-to-recording.png)
 
 With my chat log (which does not appear in the recording) as "markers", and with the video timestamped, [I can later remove the offending clips in Panopto](https://support.panopto.com/s/article/Trim-a-Video){:target="_blank"}[^quicktime_trimming].
 
@@ -655,11 +655,11 @@ In `Zoom > Settings > Nonverbal feedback` you can enable Yes/No/Speed up/Slow do
 
 [Poll Everywhere](https://www.polleverywhere.com/){:target="_blank"} is an app that allows you to quickly create a variety of different poll types:
 
-![](/assets/poll-ev-create.png)
+![](/assets/teaching-remote/poll-ev-create.png)
 
 You then get a URL that you can throw into chat, or Canvas, or wherever. The way I most commonly use it is to create the Q&A type poll and prompt the students to type in their own questions. _**Importantly, students can upvote each others questions:**_ 
 
-![](/assets/poll-ev-responses.png)
+![](/assets/teaching-remote/poll-ev-responses.png)
 
 That way I know which questions to answer first.
 
