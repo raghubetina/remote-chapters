@@ -6,7 +6,7 @@ _by Jelani Woods_
 
 From the course page on Canvas, select the Zoom tab on the left sidebar to open the Zoom dashboard.
 
-![](/assets/ta-zoom-guide/zoom-canvas-link.png)
+![](/assets/ta-zoom-guide/zoom-canvas.png)
 
 ![](/assets/ta-zoom-guide/zoom-dash.png)
 
