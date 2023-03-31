@@ -706,3 +706,4 @@ Many thanks to all the teachers out there who are sharing their knowledge with o
 Please feel free to [reach out](raghu.betina@chicagobooth.edu) if you have any questions. We're all in this together.
 
 Good luck, and be safe out there!
+
